@@ -31,3 +31,29 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Gedit backups
+*.*~
+
+# ---Eclipse---
+.metadata
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+#.cproject
+
+# PDT-specific
+.buildpath
+Debug/
+Release/
+# -------------
